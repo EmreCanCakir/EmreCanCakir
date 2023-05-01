@@ -1,7 +1,7 @@
 ### Hi there 👋 
 **_I'm Emre Can_**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&background=FFFFFF00&width=435&lines=Computer+Engineer+Student;Full+Stack+Developer;Software+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&background=FFFFFF00&width=435&lines=Computer+Engineer+Student;Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 ### About Me
 
