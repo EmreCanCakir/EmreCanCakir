@@ -5,7 +5,7 @@
 
 ### About Me
 
-As a computer engineering student and part-time developer, I am dedicated to continuously improving my skills. With a strong foundation in computer science and problem solving, I strive to improve my abilities every day. All the while, I am constantly making the most of the opportunities that technology offers me
+As a Software Developer, I am dedicated to continuously improving my skills. With a strong foundation in computer science and problem solving, I strive to improve my abilities every day. All the while, I am constantly making the most of the opportunities that technology offers me
 
 ### Tech Stack 
 
